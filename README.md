@@ -1,1 +1,1 @@
-# lab-colaboracao-github
+Este é um progeto de teste
